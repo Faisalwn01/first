@@ -1,0 +1,15 @@
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\bin\Debug\net6.0\faisal1.exe
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\bin\Debug\net6.0\faisal1.deps.json
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\bin\Debug\net6.0\faisal1.runtimeconfig.json
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\bin\Debug\net6.0\faisal1.dll
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\bin\Debug\net6.0\faisal1.pdb
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.csproj.AssemblyReference.cache
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.AssemblyInfoInputs.cache
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.AssemblyInfo.cs
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.dll
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\refint\faisal1.dll
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.pdb
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\faisal1.genruntimeconfig.cache
+C:\Users\Aditya Budi Prasetya\source\repos\faisal1\faisal1\obj\Debug\net6.0\ref\faisal1.dll
